@@ -1,0 +1,31 @@
+2013.12.31 V0.1
+Statically linked by Microsoft Visual Studio 2010
+
+2010.08.12 V0.1
+Add Readme.txt
+
+2010.07.19 V0.1
+Automatically choose Search Type for each search item.
+
+2010.07.16 V0.1
+Use palette color as table alternative color
+
+2010.07.15 V0.1
+1. Add search detail view, show result count of each search item.
+2. Press Ctrl+V anywhere can paste to Search For box.
+3. Rename from 'Bluepages Batch Query Tool' to 'Bluepages Tool'.
+
+2010.07.14 V0.1
+1. Group search results with colors.
+2. Double click any cell to resize view to contents.
+3. Add search button keyboard shortcuts Alt+G & Ctrl+Enter.
+
+2010.07.13 V0.1 build 20100713.001
+1. Trim spaces on search for strings.
+2. Empty search result if it contains 0 record.
+3. Empty search result if Search For box is empty or contains only empty strings.
+
+2010.07.13 V0.1 build 20100713.000 First version
+1. Batch search bluepages.
+2. Export search result in csv or tab delimited format.
+3. Rearrangeable columns.
